@@ -1,0 +1,10 @@
+	Comment Scrape - Bryce Perez
+
+16: //System.out.println(outFile); ~ CScrape.txt
+34: //have the lines, now need to filter them by // and /* characters
+34: //have the lines, now need to filter them by // and /* characters
+34: //have the lines, now need to filter them by // and /
+38: //get substring to include whole comment
+40: //then out.println(lineNumber + ": " + substring);
+53: /* close scanners */
+60: /* comment test */
